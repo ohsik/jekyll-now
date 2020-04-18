@@ -2,6 +2,7 @@
 //
 // VARIABLES
 //
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;800&display=swap');
 
 // Colors
 $blue: #4183C4;
@@ -15,9 +16,7 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$RobogoSlab: 'Roboto Slab', serif;;
 
 // Mobile breakpoints
 @mixin mobile {

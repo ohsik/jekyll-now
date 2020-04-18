@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Best Online Journal
+data: 2020-02-17
 ---
 
 Journaling might be the most underrated activeness that can boost your productiveness and well-being in just a few minutes a day. Just jot your thoughts down or record what happened during the day for a simple way to manage accent , enhance creativity, step-up felicity , improve health , and increase work performance, according to inquiry.

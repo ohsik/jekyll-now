@@ -20,7 +20,7 @@ Finding the best online journal for you gets harder as more apps and websites ar
 
 <h2 id="goodnight-journal">Goodnight Journal</h2>
 ![Goodnight Journal](/images/post/goodnightjournal.png)
-<p>Built in Los Angeles and launched in 2013 and have been a leader of online journal community. Goodnight Journal recently revamped entire plateform with the latest technology that offers killer user experience for writing unlimited secure private journals at no cost without any advertisements. With an extra membership fee(offered as annual $39.99 per year and monthly $4.99 per month), you can participate the well estiblished online journal community where you can get connected with other journal writers all over the world.</p>
+<p>Built in California and launched in 2013 and have been a leader of online journal community. Goodnight Journal recently revamped entire plateform with the latest technology that offers killer user experience for writing unlimited secure private journals at no cost without any advertisements. With an extra membership fee(offered as annual $39.99 per year and monthly $4.99 per month), you can participate the well estiblished online journal community where you can get connected with other journal writers all over the world.</p>
 <p>Goodnight journal also offers a great seamless experience using it from different devices from desktop to mobile and tablets.</p>
 <p><small><b>Plans: Free, $4.99 monthly, or $39.99 Annual</b></small></p>
 <a href="https://www.goodnightjournal.com/" target="_blank" class="btn-cta">Visit Goodnight Journal</a>

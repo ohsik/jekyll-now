@@ -60,6 +60,6 @@ title: 4 best online journal communities
 <h2>What’s your pick for your online journal community?</h2>
 <p>These are the 4 most active online journal communities where you can write journals and get connected with other journal writers. After going over all 4 of them, I noticed that most of them feel very outdated that were designed a long time ago and haven’t been updated since then except Goodnight Journal.</p>
 
-<p>Goodnight Journal is the only online journal app with the community with the modern design and actively maintained and updated with extra features to keep you healthy mentally.</p>
+<p>Goodnight Journal is the only online journal app with the community with the modern design and actively updated with extra features to keep you healthy mentally along with writing journals online.</p>
 
 

@@ -287,7 +287,18 @@ footer {
 footer small{
   font-size: 12px;
 }
-
+footer ul{
+  margin: 0;
+  padding: 0;
+}
+footer ul li{
+  list-style: none;
+  display: inline-block;
+  margin: 8px;
+}
+footer ul li a{
+  font-size: 14px;
+}
 
 // O custom
 hr{

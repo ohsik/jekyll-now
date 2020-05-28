@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best online journal app reviews for 2020
+title: Best online journal app reviews
 ---
 
 Finding the best online journal for you gets harder as more apps and websites are introduced in the market. The good new is you have a plenty of products to choose from and we will help you find the one that is suited for you.

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Best online journal app reviews
+title: Best online journal app reviews 2021
 ---
 
-Finding the best online journal for you gets harder as more apps and websites are introduced in the market. The good new is you have a plenty of products to choose from and we will help you find the one that is suited for you.
+Finding the best online journal in year of 2021 gets harder as more apps and websites are introduced in the market. The good new is you have a plenty of products to choose from and we will help you find the one that is suited for you.
 
 <h2>The 5 best journals apps that are most popular in 2020</h2>
 <ol>
@@ -14,7 +14,7 @@ Finding the best online journal for you gets harder as more apps and websites ar
     <li><a href="#my-diary">My Diary</a></li>
 </ol>
 
-<p>Here are 5 online journals apps that are most popular at this time around.</p>
+<p>Here are 5 online journals apps that are most popular in 2021.</p>
 
 <hr />
 

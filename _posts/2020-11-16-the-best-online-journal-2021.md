@@ -5,7 +5,7 @@ title: Best online journal app reviews 2021
 
 Finding the best online journal in year of 2021 gets harder as more apps and websites are introduced in the market. The good new is you have a plenty of products to choose from and we will help you find the one that is suited for you.
 
-<h2>The 5 best journals apps that are most popular in 2020</h2>
+<h2>The 5 best journals apps that are most popular in 2021</h2>
 <ol>
     <li><a href="#goodnight-journal">Goodnight Journal</a></li>
     <li><a href="#penzu">Penzu</a></li>

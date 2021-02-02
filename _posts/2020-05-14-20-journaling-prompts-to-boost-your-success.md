@@ -35,4 +35,4 @@ title: 20 Journaling Prompts to Boost Your Success
 <p>These are the best prompts to boost your career and make you feel a better person than before. You can write journal on these important and effective prompts.</p>
 
 <h2>Looking for an online journal app to use?</h2>
-<p>Check out <a href="https://bestonlinejournal.com/the-best-online-journal/" alt="Best online journal app reviews for 2020">Best online journal app reviews for 2020</a></p>
+<p>Check out <a href="https://bestonlinejournal.com/the-best-online-journal-2021/" alt="Best online journal app reviews for 2020">Best online journal app reviews for 2020</a></p>
